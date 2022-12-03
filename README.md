@@ -8,7 +8,7 @@ runtime-exec-payloads for Java exp
 
 
 
-## issue
+## A Bug
 If you switch code button many time, it will crash, i dont know how to fix it。
 i would like called it "shit code"
 :(
